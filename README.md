@@ -1,2 +1,2 @@
 # Conca
-A Python library for confidence calibration.
+A Python library for CONfidence CAlibration.
